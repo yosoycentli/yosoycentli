@@ -4,7 +4,7 @@
 
 -   🔭 I’m currently working on **Encora/Appen**
 
--   🌱 I’m currently learning **Docker and Data Kubernetes.**
+-   🌱 I’m currently learning **Docker and Kubernetes.**
 
 -   📝 I regularly write articles on [Medium](https://medium.com/@centli)
 
