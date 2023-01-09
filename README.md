@@ -2,6 +2,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yosoycentli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+-   🔭 I’m currently working on **Encora/Appen**
+
+-   🌱 I’m currently learning **Docker and Data Kubernetes.**
+
+-   📝 I regularly write articles on [Medium](https://medium.com/@centli)
+
+-   💬 Ask me about **Python, ML, Data Visualization and Docker**
+
+-   📫 How to reach me **yosoycentli@gmail.com**
+
 <!--
 **yosoycentli/yosoycentli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
