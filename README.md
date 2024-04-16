@@ -2,13 +2,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yosoycentli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
--   🔭 I’m currently working on **Encora/Appen**
+-   🔭 Ex-**Encora/Appen**
+  
+-   💼 You can see my LinkedIn profile [here](https://www.linkedin.com/in/centli/)
 
--   🌱 I’m currently learning **Docker and Kubernetes.**
+-   🌱 I’m currently learning **MongoDB and Ruby.**
 
 -   📝 I regularly write articles on [Medium](https://medium.com/@centli)
 
--   💬 Ask me about **Python, ML, Data Visualization and Docker**
+-   💬 Ask me about **Python, Data Visualization and Docker**
 
 -   📫 How to reach me **yosoycentli@gmail.com**
 
